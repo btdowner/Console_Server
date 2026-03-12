@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="20250525_061306.jpg" alt="Network Rack Setup" width="48%" />
-  <img src="b20250525_061752.jpg" width="48%" />
+  <img src="c20250525_061752.jpg" width="48%" />
 </p>
 
 ---
