@@ -59,18 +59,24 @@ To support my CCNA studies and deepen my understanding of network device managem
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/brandonthomasdowner)
 
 <style>
-  /* This targets the main Midnight container */
-  .wrapper {
+  /* Target the specific Midnight layout tags */
+  .wrapper, section, header {
     max-width: 95% !important;
     width: 95% !important;
     margin: 0 auto !important;
   }
 
-  /* This stretches the dark header to the edges */
-  header {
-    width: 100% !important;
-    max-width: 100% !important;
+  /* Remove the padding that creates 'fake' empty space */
+  section {
+    padding: 20px 0 !important;
   }
+
+  /* Ensure your Cisco CLI blocks use the full 95% width */
+  pre, .highlight {
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+</style>
 
   /* This makes your Cisco CLI blocks use all the new space */
   pre, code, .highlight {
