@@ -1,6 +1,9 @@
 [← Back to Home](https://github.com/btdowner)
 
-<img src="20250525_061306.jpg" alt="Network Rack Setup" width="600"/>
+<p align="center">
+  <img src="20250525_061306.jpg" alt="Network Rack Setup" width="48%" />
+  <img src="20250525_061752.jpg" alt="Raspberry Pi with USB Console Hub" width="48%" />
+</p>
 
 ---
 
@@ -20,8 +23,6 @@ To support my CCNA studies and deepen my understanding of network device managem
 - APC PDU for remote power control  
 - Powered USB hub with multiple Cisco console cables  
 - pfSense router for VLAN segmentation and DHCP reservations  
-
-<img src="20250525_061752.jpg" alt="Raspberry Pi with USB Console Hub" width="500"/>
 
 ---
 
