@@ -5,14 +5,16 @@
 
 To support my CCNA studies and deepen my understanding of network device management, I built a custom console server using a Raspberry Pi, powered USB hub, APC PDU, and an Alexa smart plug. My Cisco lab and work office are located in a building behind my house, while most of my studying takes place indoors. This setup allows **remote serial access** to multiple Cisco routers, switches, and the APC PDU — offering real-world hands-on experience.
 
-> While console access is usually secondary to SSH, this project gave me valuable exposure to the underlying equipment and was a genuinely fun challenge to set up.
-
 ---
 
 <p align="center">
   <img src="20250525_061306.jpg" alt="Network Rack Setup" width="48%" />
   <img src="d20250525_061752.jpg" width="48%" />
 </p>
+
+---
+
+> While console access is usually secondary to SSH, this project gave me valuable exposure to the underlying equipment and was a genuinely fun challenge to set up.
 
 ---
 
