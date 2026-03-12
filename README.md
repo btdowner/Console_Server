@@ -81,9 +81,3 @@ To support my CCNA studies and deepen my understanding of network device managem
     box-sizing: border-box !important;
   }
 </style>
-
-  pre, code, .highlight {
-    width: 100% !important;
-    background-color: #1a1a1a !important; /* Matches the Midnight vibe */
-  }
-</style>
