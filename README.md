@@ -59,17 +59,22 @@ To support my CCNA studies and deepen my understanding of network device managem
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/brandonthomasdowner)
 
 <style>
-  /* Target the main containers used by Architect */
-  .container-lg, .main-content, .wrapper, section {
+  /* This targets the main Midnight container */
+  .wrapper {
     max-width: 95% !important;
     width: 95% !important;
     margin: 0 auto !important;
-    padding: 2rem !important;
   }
 
-  /* Make sure code blocks (Cisco configs) fill the new width */
-  pre, .highlight {
+  /* This stretches the dark header to the edges */
+  header {
     width: 100% !important;
-    overflow-x: auto !important;
+    max-width: 100% !important;
+  }
+
+  /* This makes your Cisco CLI blocks use all the new space */
+  pre, code, .highlight {
+    width: 100% !important;
+    background-color: #1a1a1a !important; /* Matches the Midnight vibe */
   }
 </style>
