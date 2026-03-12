@@ -1,4 +1,5 @@
 [← Back to Home](https://github.com/btdowner)
+
 <img src="20250525_061306.jpg" alt="Network Rack Setup" width="600"/>
 
 ---
