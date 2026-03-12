@@ -1,6 +1,4 @@
 [← Back to Home](https://github.com/btdowner)
-# Cisco Console Server for CCNA Home Lab
-
 <img src="20250525_061306.jpg" alt="Network Rack Setup" width="600"/>
 
 ---
