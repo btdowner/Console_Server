@@ -57,6 +57,7 @@ To support my CCNA studies and deepen my understanding of network device managem
 - Create a **smart serial crossover cable** to simulate WAN links  
 - Continue building **CCNA labs** and explore **CCNP-level topologies**  
 - Potential future automation (power cycle, device discovery, logging)
+  
 ---
 
 ## 🔗 LinkedIn
