@@ -82,7 +82,6 @@ To support my CCNA studies and deepen my understanding of network device managem
   }
 </style>
 
-  /* This makes your Cisco CLI blocks use all the new space */
   pre, code, .highlight {
     width: 100% !important;
     background-color: #1a1a1a !important; /* Matches the Midnight vibe */
