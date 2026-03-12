@@ -57,3 +57,17 @@ To support my CCNA studies and deepen my understanding of network device managem
 
 ## 🔗 LinkedIn
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/brandonthomasdowner)
+
+<style>
+  /* This stretches the header and the main content area */
+  .header-inner, .main-content {
+    max-width: 90% !important;
+    margin: 0 auto !important;
+  }
+  
+  /* This ensures your Cisco config blocks also stretch */
+  pre, code {
+    width: 100% !important;
+    word-wrap: break-word !important;
+  }
+</style>
