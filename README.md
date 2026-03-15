@@ -1,6 +1,8 @@
 [← Back to Home](https://github.com/btdowner)
 
 ---
+🗄️Cisco Console Server for CCNA Home Lab
+
 ## 📘 Project Overview
 
 To support my CCNA studies and deepen my understanding of network device management, I built a custom console server using a Raspberry Pi, powered USB hub, APC PDU, and an Alexa smart plug. My Cisco lab and work office are located in a building behind my house, while most of my studying takes place indoors. This setup allows **remote serial access** to multiple Cisco routers, switches, and the APC PDU — offering real-world hands-on experience.
