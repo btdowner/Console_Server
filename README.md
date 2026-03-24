@@ -13,8 +13,8 @@ To support my CCNA studies and deepen my understanding of network device managem
 ---
 
 <p align="center">
-  <img src="20250525_061306.jpg" alt="Network Rack Setup" width="48%" />
-  <img src="d20250525_061752.jpg" width="48%" />
+  <img src="images/20250525_061306.jpg" alt="Network Rack Setup" width="48%" />
+  <img src="images/d20250525_061752.jpg" width="48%" />
 </p>
 
 ---
