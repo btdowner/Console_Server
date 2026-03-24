@@ -42,7 +42,7 @@ To support my CCNA studies and deepen my understanding of network device managem
 - Power control managed through a smart plug and APC PDU  
 - Efficient, centralized management from a Raspberry Pi interface  
 
-<img src="pic.jpg" alt="ser2net Configuration Screenshot" width="600"/>
+<img src="images/pic.jpg" alt="ser2net Configuration Screenshot" width="600"/>
 
 ---
 
